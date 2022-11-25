@@ -42,8 +42,6 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    result_dict = dict()
-
     with open(args.filename, "r") as f:
         json_data = json.loads(f.read())
 
