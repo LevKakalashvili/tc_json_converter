@@ -10,7 +10,7 @@
 "filed", "mistakes": [ 404, "IO error" ] } ] } } ] }
 ```
 ## Результат (порядок необязателен):
-```json
+```text
 ['Users', 'id', 1, 'employee', 'department', 'tech', 'name', 'Mark',
 'project', 2, 'Test', 'status', "ok", 'mistakes', 'Alex', 3, 'parser',
 'filed', 404, 'IO error']
